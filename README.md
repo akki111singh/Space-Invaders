@@ -26,4 +26,4 @@
       move two rows up every second. If this bullet collides with an alien, the
       alien will exist on the board for another 5 seconds. Also slightly change
       the look of the alien when this missile collides with it.
-  [!alt_text](space_invaders_img.png)
+  [!alt text](space_invaders_img.png)
